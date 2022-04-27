@@ -31,3 +31,4 @@ git clone https://github.com/ifest1val/mhddos_proxy.git
 cd ~/mhddos_proxy
 sudo pip3 install -r requirements.txt
 cd ~/auto_mhddos_alexnest
+screen -S "runner" bash runner.sh
