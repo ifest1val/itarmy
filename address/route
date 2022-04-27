@@ -12,10 +12,10 @@
 # fabrikant detail
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant --http-methods GET STRESS
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant2
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant2 --http-methods GET STRESS
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant3
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant3 --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant2
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant2 --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant3
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant3 --http-methods GET STRESS
 
 
 
