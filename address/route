@@ -13,30 +13,20 @@
 
 # fabrikant detail
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant --http-methods GET
-
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant2 --http-methods GET
-
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant3 --http-methods GET
-
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant4 --http-methods GET
-
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant5 --http-methods GET
-
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant6 --http-methods GET
-
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant7 --http-methods GET
-
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant8 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant7 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant8 --http-methods GET
 
 
 
 #www.b2b-center.ru
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket1 --http-methods GET
-
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket2 --http-methods GET
-
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket3 --http-methods GET
-
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket4 --http-methods GET
 
 #rosatom
