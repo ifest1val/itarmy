@@ -3,6 +3,10 @@ sudo pkill -f runner.sh
 sudo pkill -f runner.py
 sudo pkill -f ./start.py
 
+#Remove old versions
+sudo rm -R ~/mhddos_proxy
+sudo rm -R ~/auto_mhddos_alexnest
+
 
 sudo apt update -y
 sudo apt upgrade -y
