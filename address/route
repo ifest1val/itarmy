@@ -1,4 +1,4 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp  --http-methods GET STRESS
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url  --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url --http-methods GET STRESS
