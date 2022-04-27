@@ -43,3 +43,5 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/rosatom/rosatom1 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/rosatom/rosatom2 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/rosatom/rosatom3 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/rosatom/rosatom4 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/rosatom/rosatom5 --http-methods GET
