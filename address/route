@@ -1,13 +1,13 @@
 # tender list
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_fast_active
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_fast_active
 
 # 1c service
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url --http-methods GET STRESS
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET STRESS
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET STRESS
 
 
 
