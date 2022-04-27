@@ -1,5 +1,5 @@
 # tender list
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url
 
 # 1c service
