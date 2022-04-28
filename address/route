@@ -57,6 +57,7 @@
 
 #market-lk
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/market-lk/market-lk --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/market-lk/market-lk_2 --http-methods GET
 
 #api.market.otc.ru
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_1 --http-methods GET
