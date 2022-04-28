@@ -70,3 +70,6 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_2 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_3 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_4 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_5 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_6 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_7 --http-methods GET
