@@ -16,7 +16,7 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant2 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant3 --http-methods GET
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant4 --http-methods GET
+ 
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant5 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant6 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant7 --http-methods GET
@@ -34,6 +34,7 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket6 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket7 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket8 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket9 --http-methods GET
 
 #rosatom
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/rosatom/rosatom1 --http-methods GET
