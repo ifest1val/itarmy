@@ -43,8 +43,8 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket10 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket11 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket12 --http-methods GET
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket13 --http-methods GET
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket14 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket13 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket14 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket15 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket16 --http-methods GET
 
@@ -64,3 +64,9 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_2 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_3 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_4 --http-methods GET
+
+#gz.lot.online
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_1 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_2 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_3 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_4 --http-methods GET
