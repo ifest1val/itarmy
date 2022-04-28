@@ -25,7 +25,7 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant5 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant6 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant7 --http-methods GET
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant8 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant8 --http-methods GET
 
 #www.b2b-center.ru
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket1 --http-methods GET
@@ -55,3 +55,9 @@
 
 #market-lk
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/market-lk/market-lk --http-methods GET
+
+#api.market.otc.ru
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_1 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_2 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_3 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_4 --http-methods GET
