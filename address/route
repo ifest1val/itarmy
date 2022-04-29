@@ -77,13 +77,15 @@
 #market-lk
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/market-lk/market-lk --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/market-lk/market-lk_2 --http-methods GET
+# BONUS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/market-lk/market-lk --http-methods SLOW
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/market-lk/market-lk_2 --http-methods SLOW
 
 #api.market.otc.ru
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_1 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_2 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_3 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_4 --http-methods GET
-
 # BONUS 
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_1 --http-methods SLOW
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/otc/otc_2 --http-methods SLOW
@@ -98,7 +100,6 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_5 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_6 --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_7 --http-methods GET
-
 # BONUS
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_1 --http-methods SLOW
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_2 --http-methods SLOW
@@ -107,3 +108,11 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_5 --http-methods SLOW
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_6 --http-methods SLOW
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_7 --http-methods SLOW
+
+#
+# SEVERSTAL
+#
+# market
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/severstal/market_severstal --http-methods GET
+# BONUS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/severstal/market_severstal --http-methods SLOW
