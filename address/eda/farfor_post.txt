@@ -1,0 +1,2 @@
+https://api.farfor.ru/v2/basket/add-product/
+api.farfor.ru/v2/basket/add-product/
