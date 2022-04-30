@@ -4,6 +4,12 @@ api.farfor.ru/v2/basket/add-product/
 api.farfor.ru/v4/basket/add-product/
 api.farfor.ru/v2/basket/items/mobile/?
 api.farfor.ru/v2/menu/categories/city/49/?
+api.farfor.ru/v2/geo/cities/city/49/tech/?
+api.farfor.ru/v2/geo/cities/city/49/info/?
+api.farfor.ru/v2/marketing/propositions/mobile/?
+api.farfor.ru/v2/menu/categories/city/49/?
+msk.farfor.ru/basket/
+api.farfor.ru/v2/menu/products/city/49/category/50/?
 http://api.farfor.ru/v2/menu/categories/city/49/?
 api.farfor.ru/v2/menu/categories/city/49/?
 api.farfor.ru/v2/menu/products/city/49/category/9/?
