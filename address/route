@@ -30,7 +30,7 @@
 
 
 # fabrikant detail
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant --http-methods GET 
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant2 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant3 --http-methods GET 
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant5 --http-methods GET
@@ -116,3 +116,12 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/severstal/market_severstal --http-methods GET
 # BONUS
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/severstal/market_severstal --http-methods SLOW
+
+
+##############################
+########  DOSTAVKA	##########
+##############################
+# EDA
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda_l7 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda_l7 --http-methods SLOW POST
+
