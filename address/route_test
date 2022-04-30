@@ -13,6 +13,6 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda_l7 --http-methods GET
 
 
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/route
+https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/route
 
 
