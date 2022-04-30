@@ -1,0 +1,18 @@
+
+######################################
+########  ROUTER DOSTAVKA	##########
+######################################
+
+
+# EDA
+##-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda_l7 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda_l7 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda_l7 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/setsushi_big_size_data --http-methods GET SLOW
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/setsushi_big_size_data --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda_l7 --http-methods GET
+
+
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/route
+
+

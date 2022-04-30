@@ -1,9 +1,4 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/eda_l7 --http-methods GET POST
-
-
-
-
-
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/eda_l7_pach --http-methods POST SLOW
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/eda_l7_pach --http-methods POST SLOW
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/eda/eda_l7_pach --http-methods GET POST
