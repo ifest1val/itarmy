@@ -10,7 +10,7 @@
 #####################################
 
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods SLOW
 
 
@@ -31,7 +31,7 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_main
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_fast_active
 
 # BONUS
@@ -40,7 +40,7 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods SLOW
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods SLOW
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods SLOW
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods SLOW
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods SLOW
 
 
 # fabrikant detail
@@ -54,7 +54,7 @@
 
 # BONUS
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant7 --http-methods SLOW
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant8 --http-methods SLOW
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/fabrikant8 --http-methods SLOW
 
 #www.b2b-center.ru
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/b2bmarket/b2bmarket1 --http-methods GET
@@ -113,7 +113,7 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_4 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_5 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_6 --http-methods GET
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_7 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_7 --http-methods GET
 # BONUS
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_1 --http-methods SLOW
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender/gz_lot_online/gz_lot_online_2 --http-methods SLOW
