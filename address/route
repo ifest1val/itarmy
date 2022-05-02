@@ -1,3 +1,6 @@
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
+
+
 #ONLINE
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
 
@@ -9,13 +12,13 @@
 ########  IPTV  ########
 #####################################
 
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods GET
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods SLOW
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods SLOW
 
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_2.txt --http-methods GET SLOW
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_3.txt --http-methods SLOW
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_4.txt --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_2.txt --http-methods GET SLOW
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_3.txt --http-methods SLOW
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_4.txt --http-methods GET
 
 
 #####################################
