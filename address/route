@@ -1,6 +1,9 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
 
 
+
+
+
 #ONLINE
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
 
@@ -25,10 +28,10 @@
 ########  1c  S e r v i c e  ########
 #####################################
 # 1c service
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url --http-methods GET STRESS
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET STRESS
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET STRESS
 
 ##############################
 ########  T E N D E R ########
