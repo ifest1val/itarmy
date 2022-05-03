@@ -32,7 +32,7 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url --http-methods GET STRESS
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET STRESS
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET STRESS
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET
 
 ##############################
 ########  T E N D E R ########
