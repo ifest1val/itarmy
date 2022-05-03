@@ -4,6 +4,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_http --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_tcp
+
+
+
+
 #ONLINE
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
 
