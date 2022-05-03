@@ -1,28 +1,12 @@
+# Topical or alive targets it army
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#####################################
+########        KKT          ########
+#####################################
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_http --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_tcp
 
-
-
-
-#ONLINE
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
 
 
 
@@ -44,7 +28,7 @@
 #####################################
 ########  1c  S e r v i c e  ########
 #####################################
-# 1c service
+
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url --http-methods GET STRESS
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET STRESS
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
