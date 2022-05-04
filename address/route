@@ -4,8 +4,8 @@
 #####################################
 ########        KKT          ########
 #####################################
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_http --http-methods GET
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_tcp
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_http --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/kkt_tcp
 
 
 
@@ -29,7 +29,7 @@
 ########  1c  S e r v i c e  ########
 #####################################
 
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url2 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET
