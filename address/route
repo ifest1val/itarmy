@@ -40,7 +40,8 @@
 # tender list
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_main
-https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_fast_active
