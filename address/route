@@ -1,5 +1,5 @@
 # Topical or alive targets it army
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/shops/wildberries_method_1 --http-methods GET
 
 #####################################
