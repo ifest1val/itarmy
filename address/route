@@ -1,5 +1,6 @@
 # Topical or alive targets it army
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/shops/wildberries_method_1 --http-methods GET
 
 #####################################
 ########        KKT          ########
@@ -24,9 +25,9 @@
 ########  1c  S e r v i c e  ########
 #####################################
 
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url2 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url2 --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET
 
 ##############################
@@ -35,8 +36,8 @@
 # tender list
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_tcp
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_main
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack_443
+##-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
+##-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack_443
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_targets_url_pack --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/tender_fast_active
