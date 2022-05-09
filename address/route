@@ -1,6 +1,16 @@
 # Topical or alive targets it army
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/shops/wildberries_method_1 --http-methods GET
+#9MAY
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_tcp
+
+
+#SHOPS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_tcp
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l7_url --http-methods GET STRESS
+
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/shops/wildberries_method_1 --http-methods GET
 
 #####################################
 ########        KKT          ########
