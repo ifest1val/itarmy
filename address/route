@@ -1,8 +1,11 @@
 # Topical or alive targets it army
 #9MAY
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
-
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_tcp
+
+#ivi
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/ivi/ivi_get_post
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/ivi/ivi_l4
 
 
 #SHOPS
