@@ -4,9 +4,13 @@ https://ivi.tv/
 https://ivi.ru/
 https://api2.ivi.ru/pull/notifications/?app_version=870&session=4545451234234234_76767624132-543537880Ezwwe-2343242352352352&type=44
 https://rocket.ivi.ru/event/
+https://rocket.ivi.tv/event/
 https://api2.ivi.ru/pull/overlay/?app_version=870&session=563421131&user_ab_bucket=553123 
+https://api2.ivi.tv/pull/overlay/?app_version=870&session=563421131&user_ab_bucket=553123
 https://api.ivi.ru/mobileapi/billing/v2/certificate/activate
+https://api.ivi.tv/mobileapi/billing/v2/certificate/activate
 https://g.ivi.ru/track
+https://g.ivi.tv/track
 https://api.ivi.ru/pivi/pokeball.PlusService/OffersList
 https://gw1.ivi.tv
 http://gw1.ivi.tv
@@ -28,8 +32,6 @@ https://test.ivi.tv
 http://test.ivi.tv
 https://mx1.ivi.tv
 http://mx1.ivi.tv
-https://www.ivi.tv
-http://www.ivi.tv
 https://buffy.host.ivi.tv
 http://buffy.host.ivi.tv
 https://dev.ivi.tv
@@ -45,11 +47,6 @@ http://newhart.host.ivi.tv
 https://api.ivi.tv
 http://api.ivi.tv
 https://api2.ivi.tv/pull/notifications/?app_version=870&session=4545451234234234_76767624132-543537880Ezwwe-2343242352352352&type=44
-https://rocket.ivi.tv/event/
-https://api2.ivi.tv/pull/overlay/?app_version=870&session=563421131&user_ab_bucket=553123 
-https://api.ivi.tv/mobileapi/billing/v2/certificate/activate
-https://g.ivi.tv/track
 https://api.ivi.tv/pivi/pokeball.PlusService/OffersList
 https://ask.ivi.ru
 http://ask.ivi.ru
-
