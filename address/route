@@ -5,20 +5,20 @@
 
 #9MAY
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_1 --http-methods GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_2 --http-methods GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_3 --http-methods GET POST
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_1 --http-methods GET POST
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_2 --http-methods GET POST
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_3 --http-methods GET POST
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_tcp
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_1
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_2
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_3
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_1
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_2
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_3
 
 
 
 
 #SHOPS
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_tcp
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_tcp
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l7_url --http-methods GET STRESS
 
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
@@ -33,15 +33,15 @@
 #####################################
 ########  IPTV  ########
 #####################################
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/tvigle_1 --http-methods GET
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/tvigle_1 --http-methods GET
 
 
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_active
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/iptv_url --http-methods SLOW
 #ivi
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/ivi/ivi_get_post --http-methods GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/ivi/ivi_l4
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/ivi/ivi_get_post --http-methods GET POST
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/ivi/ivi_l4
 #okko
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_2.txt --http-methods GET SLOW
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/iptv/okko_3.txt --http-methods SLOW
