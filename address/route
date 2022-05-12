@@ -1,5 +1,5 @@
 # Topical or alive targets it army
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active --http-method GET
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_clients_get_post --http-method GET POST
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_clients_tcp
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_active --http-method GET POST
