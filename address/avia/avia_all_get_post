@@ -5,3 +5,9 @@ http://www.avianadym.ru/index_zakupki.php
 https://b.utair.ru/api/v1/profile/
 https://b.utair.ru/api/v1/login/
 https://sentry.utair.ru/api/53/envelope/?sentry_key=5723923719473491723945423122323&sentry_version=7
+https://web-checkin.severstal-avia.ru/websky/json/cartesian-search-period
+https://web-checkin.severstal-avia.ru/websky/json/get-availability-for-direction
+https://web-checkin.severstal-avia.ru/websky/json/dependence-cities
+https://web-checkin.severstal-avia.ru/websky/json/dict-cities
+https://web-checkin.severstal-avia.ru/websky/json/search-order
+https://web-checkin.severstal-avia.ru/websky/json/add-error
