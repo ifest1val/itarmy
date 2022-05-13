@@ -18,6 +18,7 @@
 
 #avia
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/avia/avia_all_get_post --http-methods GET POST
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/avia/avia_alive_l4
 
 #SHOPS
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_tcp
