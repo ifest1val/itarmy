@@ -26,3 +26,6 @@ http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%BE?apilang=ru
 http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%BE?apilang=ru
 http://aaviaorsk.bilet.aero/authorization__auth_client&login=1&pass=1&back_location=&json=1
 https://klf.aero/bitrix/components/bitrix/main.userconsent.request/ajax.php
+https://klf.aero/search/?q=билет+%7C+рейс+%7C+1+%7C+2&how=r&PAGEN_2=20
+https://klf.aero/search/?q=%D0%B1%D0%B8%D0%BB%D0%B5%D1%82+%7C%D1%80%D0%B5%D0%B9%D1%81&how=r&PAGEN_2=5
+
