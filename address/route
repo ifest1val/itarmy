@@ -1,14 +1,14 @@
 # Topical or alive targets it army
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active --http-method GET
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_clients_get_post --http-method GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_clients_tcp
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_active --http-method GET POST
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_clients_get_post --http-method GET POST
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_clients_tcp
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/amo/amo_active --http-method GET POST
 
 #9MAY
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_1 --http-methods GET POST
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_2 --http-methods GET POST
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_3 --http-methods GET POST
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_1 --http-methods GET POST
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_2 --http-methods GET POST
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_3 --http-methods GET POST
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_tcp
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_1
@@ -16,7 +16,8 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l4_part_3
 
 
-
+#avia
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/aviay/avia_all_get --http-methods GET POST
 
 #SHOPS
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_tcp
@@ -53,10 +54,10 @@
 ########  1c  S e r v i c e  ########
 #####################################
 
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url2 --http-methods GET
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_url2 --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_http --http-methods GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_tcp
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/1c_add --http-methods GET
 
 ##############################
 ########  T E N D E R ########
