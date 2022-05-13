@@ -40,3 +40,6 @@ https://mobile-explore.aviasales.ru/aggregated/v1/web/aviasales/country/map.json
 https://content-admin.aviasales.ru/api/widgets
 https://suggest.aviasales.ru/v2/places.json?locale=ru_RU&max=100&term=%D0%BC%D0%BE%D1%81&types[]=city&types[]=airport
 https://monetization-trap-api.aviasales.ru/api/v1/trap/DXB.json?currency=rub&locale=ru_RU&show_premium=true&brand=AS
+https://static.aviasales.ru/selene-static/entrypoint/shared.92e53c316746641a4bdf.js
+https://static.aviasales.ru/selene-static/entrypoint/main.dc97d8452b6cce04f6d9.js
+https://static.aviasales.ru/helios-assets/6150.000b007c1750ddc9463f.js
