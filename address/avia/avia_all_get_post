@@ -36,3 +36,4 @@ https://klf.aero/search/?q=билет+%7C+о&how=r
 https://www.aviasales.ru/api/v1/evaluation/batch
 https://www.aviasales.ru/api/v1/evaluate
 https://suggest.aviasales.ru/v2/places.json?locale=ru_RU&max=7&term=%D0%B0&types[]=city&types[]=airport
+https://mobile-explore.aviasales.ru/aggregated/v1/web/aviasales/country/map.json?locale=ru_RU&origin=MOW&passport_country=RU&theme=light
