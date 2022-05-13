@@ -25,3 +25,4 @@ http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%B2?apilang=ru
 http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%BE?apilang=ru
 http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%BE?apilang=ru
 http://aaviaorsk.bilet.aero/authorization__auth_client&login=1&pass=1&back_location=&json=1
+https://klf.aero/bitrix/components/bitrix/main.userconsent.request/ajax.php
