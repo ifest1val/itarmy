@@ -2,6 +2,7 @@ http://www.avianadym.ru/tablo/prilet.php
 http://www.avianadym.ru/tablo/vilet.php
 http://www.avianadym.ru/index.php?page=../aeroport/novosti
 http://www.avianadym.ru/index_zakupki.php
+http://www.avianadym.ru/aviabilety.php
 https://b.utair.ru/api/v1/profile/
 https://b.utair.ru/api/v1/login/
 https://sentry.utair.ru/api/53/envelope/?sentry_key=5723923719473491723945423122323&sentry_version=7
@@ -23,3 +24,4 @@ http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%B1?apilang=ru
 http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%B2?apilang=ru
 http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%BE?apilang=ru
 http://aviaorsk.bilet.aero/api/guide/autocomplete/iata/%D0%BE?apilang=ru
+http://aaviaorsk.bilet.aero/authorization__auth_client&login=1&pass=1&back_location=&json=1
