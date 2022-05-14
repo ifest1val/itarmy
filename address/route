@@ -18,8 +18,8 @@
 
 #avia
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/avia/avia_all_get_post --http-methods GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/avia/avia_all_get_post --http-methods GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/avia/avia_all_get_post --http-methods GET POST
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/avia/avia_all_get_post_2 --http-methods GET POST
+
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/avia/avia_alive_l4
 
 #SHOPS
