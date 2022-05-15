@@ -12,6 +12,8 @@
 
 #News
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news/news_get_post --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news/news_l4_1
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news/news_l4_2
 
 #9MAY
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
