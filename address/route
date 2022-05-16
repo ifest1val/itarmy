@@ -8,6 +8,7 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/cert_l4_1
 #cert_bonus
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/crypto_pro_get_post_1  --http-method GET POST
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/crypto_pro_get_post_1  --http-method GET POST
 
 
 # AMO
