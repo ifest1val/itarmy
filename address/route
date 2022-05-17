@@ -1,6 +1,6 @@
 # Topical or alive targets it army
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/news/active --http-method GET
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/news/active --http-method GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active --http-method GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active --http-method GET
 
 
 #alexnest-ua
