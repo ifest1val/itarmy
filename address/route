@@ -3,6 +3,12 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/news/active --http-method GET
 
 
+#alexnest-ua
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ocsp_l7_url --http-methods GET POST
+
+
+
 #cert
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/cert_get_1 --http-method GET POST
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/cert_l4_1
