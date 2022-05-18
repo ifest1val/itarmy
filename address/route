@@ -4,14 +4,14 @@
 
 
 #alexnest-ua
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ocsp_l7_url --http-methods GET POST
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ocsp_l7_url --http-methods GET POST
 
 
 
 #cert
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/cert_get_1 --http-method GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/cert_l4_1
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/cert_get_1 --http-method GET POST
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/cert_l4_1
 #cert_bonus
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/crypto_pro/crypto_pro_get_post_1  --http-method GET POST
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/cert/crypto_pro/crypto_pro_get_post_2  --http-method GET POST
@@ -29,7 +29,7 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/news/news_l4_2
 
 #9MAY
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_1 --http-methods GET POST
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_2 --http-methods GET POST
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/9may/9may_l7_part_3 --http-methods GET POST
