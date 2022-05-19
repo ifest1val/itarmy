@@ -1,24 +1,24 @@
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=1 --http-method TREX
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=2 --http-method TREX
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=3 --http-method TREX
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=4 --http-method TREX
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=5 --http-method TREX
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=1 TREX
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=2 TREX
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=3 TREX
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=4 TREX
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=5 TREX
 https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorFrom=6
 https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorSizeFrom=32&FloorSizeTo=95
 https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&FloorSizeFrom=51&FloorSizeTo=70
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&KitchenSizeFrom=5&KitchenSizeTo=17 --http-method BYPASS
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&ApartmentStyles=Monolithic&KitchenSizeFrom=5&KitchenSizeTo=17 --http-method BYPASS
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&ApartmentStyles=Brick&KitchenSizeFrom=5&KitchenSizeTo=17 --http-method BYPASS
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&ApartmentStyles=Brick&FloorSizeFrom=30&FloorSizeTo=55 --http-method BYPASS
-https://www.domofond.ru/arenda-kvartiry-moskva-c3584?SearchText=%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82&RentalRate=Month --http-method BYPASS
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&KitchenSizeFrom=5&KitchenSizeTo=17 BYPASS
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&ApartmentStyles=Monolithic&KitchenSizeFrom=5&KitchenSizeTo=17 BYPASS
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&ApartmentStyles=Brick&KitchenSizeFrom=5&KitchenSizeTo=17 BYPASS
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?RentalRate=Month&ApartmentStyles=Brick&FloorSizeFrom=30&FloorSizeTo=55 BYPASS
+https://www.domofond.ru/arenda-kvartiry-moskva-c3584?SearchText=%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82&RentalRate=Month BYPASS
 https://www.domofond.ru/arenda-kvartiry-moskva-c3584?SearchText=%D1%81%D0%B0%D0%B4&RentalRate=Month
-https://www.domofond.ru/ --http-method TREX
-https://www.domofond.ru/ --http-method BYPASS
-https://www.domofond.ru/ --http-method CFB
-https://www.domofond.ru/ --http-method RGET
-https://www.domofond.ru/ --http-method RHEAD
-https://www.domofond.ru/ --http-method RHEX
-https://www.domofond.ru/ --http-method STOMP
+https://www.domofond.ru/ TREX
+https://www.domofond.ru/ BYPASS
+https://www.domofond.ru/ CFB
+https://www.domofond.ru/ RGET
+https://www.domofond.ru/ RHEAD
+https://www.domofond.ru/ RHEX
+https://www.domofond.ru/ STOMP
 https://www.domofond.ru/arenda-kvartiry-moskva-c3584?SearchText=wifi&RentalRate=Month
 https://www.domofond.ru/arenda-kvartiry-moskva-c3584?SearchText=%D0%BF%D0%BB%D0%B8%D1%82%D0%B0&RentalRate=Month
 https://www.domofond.ru/arenda-kvartiry-moskva-c3584?SearchText=%D0%B1%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD&RentalRate=Month
