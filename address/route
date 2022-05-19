@@ -4,9 +4,7 @@
 
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/rent/rent_list_url  --http-method GET POST
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/rent/rent_list_l4  --http-method GET POST
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/rent/onrealt
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/rent/onrealt
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/rent/onrealt
+
 
 #alexnest-ua
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
