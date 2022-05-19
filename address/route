@@ -2,6 +2,7 @@
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active --http-method GET
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active --http-method GET
 
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/rent/rent_list_url  --http-method GET POST
 
 #alexnest-ua
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
