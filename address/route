@@ -1,5 +1,6 @@
 # Topical or alive targets it army
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/active
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/full
 #-c https://gist.githubusercontent.com/ddosukraine2022/f739250dba308a7a2215617b17114be9/raw/mhdos_targets_tcp_v2.txt
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/others/list_1.txt
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/others/list_2.txt
