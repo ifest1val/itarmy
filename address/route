@@ -1,11 +1,13 @@
 # Topical or alive targets it army
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active_tcp.txt
+
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_1
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_2
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_1 --http-method SLOW
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_2 --http-method DOWNLOADER
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_2 --http-method SLOW
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_3 --http-method SLOW
-#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active
+
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active_tcp.txt
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/full
 #-c https://gist.githubusercontent.com/ddosukraine2022/f739250dba308a7a2215617b17114be9/raw/mhdos_targets_tcp_v2.txt
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/others/list_1.txt
