@@ -1,5 +1,5 @@
 # Topical or alive targets it army
-
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/get_search_result_1
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_1
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_2
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_1 --http-method SLOW
