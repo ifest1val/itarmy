@@ -1,0 +1,2 @@
+https://dss2.roseltorg.ru/STS/Register/
+https://dss2.roseltorg.ru/STS/Authentication/PreLogIn/
