@@ -3,9 +3,9 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/roseltorg_tcp.txt
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_1
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_2
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_1 --http-method GET
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_2 --http-method GET
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_3 --http-method GET
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_1 --http-method DOWNLOADER
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_2 --http-method DOWNLOADER
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_3 --http-method DOWNLOADER
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/esia_tcp.txt
 
