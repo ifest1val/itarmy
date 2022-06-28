@@ -4,6 +4,7 @@
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_1
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/esia_tcp.txt
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/esia_get.txt
 
 
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_1 --http-method DOWNLOADER

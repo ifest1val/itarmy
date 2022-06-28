@@ -1,0 +1,2 @@
+https://esia.gosuslugi.ru/login/recovery
+https://esia.gosuslugi.ru/aas/oauth2/config
