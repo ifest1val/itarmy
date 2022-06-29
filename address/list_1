@@ -1,14 +1,5 @@
 https://dss2.roseltorg.ru/STS/Register/ POST
-https://dss2.roseltorg.ru/STS/Authentication/PreLogIn/ POST
-https://esia.gosuslugi.ru/login/recovery GET
-https://esia.gosuslugi.ru/aas/oauth2/config GET
-https://dss2.roseltorg.ru/Frontend/Users/Login?ReturnUrl=%2FFrontend%2F GET
-https://dss2.roseltorg.ru/STS/bundles/Css?v=http%3A%2F%2Fwww.ukr.net%2F STRESS
-https://dss2.roseltorg.ru/STS/oauth/.htaccess GET
-https://dss2.roseltorg.ru/STS/GetCaptcha/? GET
-https://dss2.roseltorg.ru/STS/bundles/jqueryval/ GET
-https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=33 GET
-https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=34 STRESS
+https://dss2.roseltorg.ru/STS/bundles/Css?v=http%3A%2F%2Fwww.ukr.net%2F GET
 https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=35 GET
 tcp://109.207.2.147:80
 tcp://109.207.2.147:81
@@ -37,7 +28,6 @@ tcp://213.59.254.6:4443
 tcp://213.59.254.6:8080
 tcp://213.59.254.6:8081
 tcp://213.59.254.6:8082
-https://esia.gosuslugi.ru/login/recovery GET
 https://esia.gosuslugi.ru/aas/oauth2/config GET
 tcp://109.207.2.205:80
 tcp://109.207.2.205:81
