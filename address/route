@@ -1,11 +1,12 @@
 # Topical or alive targets it army
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/get_search_result_1
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/roseltorg_tcp.txt
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_1
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/get_search_result_1
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/roseltorg_tcp.txt
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_api_1
 -c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/itarmy/active
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/esia_tcp.txt
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/esia_get.txt
--c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/dss2_post.txt --http-method POST
+-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/list_1
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/esia_tcp.txt
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/esia_get.txt
+#-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/roseltorg/dss2_post.txt --http-method POST
 
 
 #-c https://raw.githubusercontent.com/ifest1val/itarmy/main/address/gosuslugi/gosuslugi_get_files_1 --http-method DOWNLOADER

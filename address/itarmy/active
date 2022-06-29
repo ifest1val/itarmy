@@ -8,11 +8,12 @@ https://www.roseltorg.ru/search/sale?status[]=0¤cy=all&page=40&from=40&query_fi
 https://www.roseltorg.ru/search_ajax/fkr?status%5B%5D=0&source%5B%5D=13&query_field=1
 https://www.roseltorg.ru/_flysystem/webdav/2021/12/07/reglam_kim_RA.pdf
 https://www.roseltorg.ru/_flysystem/webdav/2021/12/07/Regulation_COS_Rosatom_v7.pdf
-https://www.mos.ru/
 https://esia.gosuslugi.ru
 https://esia.gosuslugi.ru/esia-rs/api/public/v1/pwd/check?lang=ru
 https://esia.gosuslugi.ru/registration/api/public/v1/banks
 https://esia.gslb.gosuslugi.ru
+https://my.dom.gosuslugi.ru
+https://e-trust.gosuslugi.ru
 https://lk.gosuslugi.ru
 https://guides.gosuslugi.ru
 https://partner.gosuslugi.ru
@@ -65,7 +66,6 @@ https://www.gosuslugi.ru/api/cms/v2/faq/categories/personal_documents
 https://www.gosuslugi.ru/api/mainpage/v4/?type=person®ion=00000000005
 https://www.gosuslugi.ru/api/nsi/v1/epgu/region/?pageNum=0&pageSize=1000&q=%D0%BC%D0%BE%D1%81
 https://www.gosuslugi.ru/api/quadrupel/v1/banners/?groups=main_info_place%2Cmain_advert/ising_place%2Cmain_header_banner&platform=EPGUV3_DESK®ion=00000000009
-https://www.gosuslugi.ru/api/quadrupel/v1/banners/?groups=main_info_place%2Cmain_advertising_place%2Cmain_header_banner&platform=EPGUV3_DESK®ion=00000000009
 https://gosuslugi.support
 https://uslugi.mosreg.ru/
 https://213.59.254.8
@@ -73,9 +73,6 @@ https://esia.gosuslugi.ru/login/
 https://esia.gosuslugi.ru/profile/esia-rs/api/public/v1/profile/config
 https://esia.gosuslugi.ru/profile/user/
 https://1cweb.roseltorg.ru/
-https://ip.roseltorg.ru/
-https://pasta.roseltorg.ru/
-https://welcome.roseltorg.ru/
 https://corplogin.roseltorg.ru/
 https://seeyou.roseltorg.ru/
 https://uni.roseltorg.ru/
