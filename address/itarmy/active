@@ -12,15 +12,11 @@ https://esia.gosuslugi.ru
 https://esia.gosuslugi.ru/esia-rs/api/public/v1/pwd/check?lang=ru
 https://esia.gosuslugi.ru/registration/api/public/v1/banks
 https://esia.gslb.gosuslugi.ru
-https://my.dom.gosuslugi.ru
-https://e-trust.gosuslugi.ru
 https://lk.gosuslugi.ru
-https://guides.gosuslugi.ru
 https://partner.gosuslugi.ru
 https://partners.gosuslugi.ru
 https://culture.gosuslugi.ru
 https://eln.gosuslugi.ru
-https://fc.gosuslugi.ru
 https://freeinternet.gosuslugi.ru
 https://knd.gosuslugi.ru
 https://posobie2020.gosuslugi.ru
@@ -61,11 +57,7 @@ https://esnsi.gosuslugi.ru
 https://lkorg.gosuslugi.ru
 https://nogolb.gosuslugi.ru
 https://www.gosuslugi.ru/api/catalog/v3/srfile/298/download?version=2
-https://www.gosuslugi.ru/api/cms/v2/faq/categories/about_gosuslugi
-https://www.gosuslugi.ru/api/cms/v2/faq/categories/personal_documents
 https://www.gosuslugi.ru/api/mainpage/v4/?type=person®ion=00000000005
-https://www.gosuslugi.ru/api/nsi/v1/epgu/region/?pageNum=0&pageSize=1000&q=%D0%BC%D0%BE%D1%81
-https://www.gosuslugi.ru/api/quadrupel/v1/banners/?groups=main_info_place%2Cmain_advert/ising_place%2Cmain_header_banner&platform=EPGUV3_DESK®ion=00000000009
 https://gosuslugi.support
 https://uslugi.mosreg.ru/
 https://213.59.254.8
@@ -73,7 +65,7 @@ https://esia.gosuslugi.ru/login/
 https://esia.gosuslugi.ru/profile/esia-rs/api/public/v1/profile/config
 https://esia.gosuslugi.ru/profile/user/
 https://1cweb.roseltorg.ru/
-https://corplogin.roseltorg.ru/
+https://pasta.roseltorg.ru/
 https://seeyou.roseltorg.ru/
 https://uni.roseltorg.ru/
 https://ca.roseltorg.ru/
