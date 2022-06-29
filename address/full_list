@@ -82,5 +82,5 @@ tcp://213.59.254.6:4443
 tcp://213.59.254.6:8080
 tcp://213.59.254.6:8081
 tcp://213.59.254.6:8082
-https://www.gosuslugi.ru/api/catalog/v3/services/16422_67?_=0.7560837905276683&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER   --http-methods GET
+https://www.gosuslugi.ru/api/catalog/v3/services/16422_67?_=0.7560837905276683&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER --http-methods GET
 
