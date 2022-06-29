@@ -1,6 +1,27 @@
 https://dss2.roseltorg.ru/STS/Register/ POST
 https://dss2.roseltorg.ru/STS/bundles/Css?v=http%3A%2F%2Fwww.ukr.net%2F GET
-https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=35 GET
+https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=35
+https://www.gosuslugi.ru/api/catalog/v3/services/285286_31?_=0.5381958408865177&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/285286_37?_=0.21694520624863722&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/10058_25?_=0.6553119006375858&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/16422_69?_=0.6402822684236062&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/10058_30?_=0.511155377472287&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/17611_5?_=0.6081737141236476&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/129472_25?_=0.9103218157718895&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/10052_9?_=0.5389145598292424&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/335514_4?_=0.44362663360599663&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/285286_51?_=0.6722383703169186&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/516943_51?_=0.8195400148397289&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/16264_31?_=0.6752516307666256&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/17611_2?_=0.5405920969926932&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/115839_16?_=0.9423013054159997&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/285286_28?_=0.7687833497284124&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/16581_2?_=0.9356100193738739&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER&region=00000000000
+https://www.gosuslugi.ru/api/catalog/v3/services/516942_9?_=0.6542875292680541&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/129472_15?_=0.17611970995705462&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/516943_35?_=0.4438079704993494&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/17611_3?_=0.5929410250607925&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
+https://www.gosuslugi.ru/api/catalog/v3/services/129472_12?_=0.6402045252438355&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER
 tcp://109.207.2.147:80
 tcp://109.207.2.147:81
 tcp://109.207.2.147:135
