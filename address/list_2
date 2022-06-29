@@ -1,5 +1,5 @@
-https://dss2.roseltorg.ru/STS/Register/
-https://dss2.roseltorg.ru/STS/Authentication/PreLogIn/
+https://dss2.roseltorg.ru/STS/Register/ POST
+https://dss2.roseltorg.ru/STS/Authentication/PreLogIn/ POST
 tcp://109.207.2.147:80
 tcp://109.207.2.147:81
 tcp://109.207.2.147:135
