@@ -1,0 +1,36 @@
+https://dss2.roseltorg.ru/STS/Register/ --http-method POST
+https://dss2.roseltorg.ru/STS/Authentication/PreLogIn/ --http-method POST
+https://esia.gosuslugi.ru/login/recovery --http-method GET
+https://esia.gosuslugi.ru/aas/oauth2/config --http-method GET
+https://dss2.roseltorg.ru/Frontend/Users/Login?ReturnUrl=%2FFrontend%2F --http-method GET
+https://dss2.roseltorg.ru/STS/bundles/Css?v=http%3A%2F%2Fwww.ukr.net%2F --http-method GET
+https://dss2.roseltorg.ru/STS/oauth/.htaccess --http-method GET
+https://dss2.roseltorg.ru/STS/GetCaptcha/? --http-method GET
+https://dss2.roseltorg.ru/STS/bundles/jqueryval/ --http-method GET
+tcp://109.207.2.147:80
+tcp://109.207.2.147:81
+tcp://109.207.2.147:135
+tcp://109.207.2.147:443
+tcp://109.207.2.147:1433
+tcp://109.207.2.147:4443
+tcp://109.207.2.147:8080
+tcp://109.207.2.147:8081
+tcp://109.207.2.147:8082	
+tcp://109.207.9.147:80
+tcp://109.207.9.147:81
+tcp://109.207.9.147:135
+tcp://109.207.9.147:443
+tcp://109.207.9.147:1433
+tcp://109.207.9.147:4443
+tcp://109.207.9.147:8080
+tcp://109.207.9.147:8081
+tcp://109.207.9.147:8082		
+tcp://213.59.254.6:80
+tcp://213.59.254.6:81
+tcp://213.59.254.6:135
+tcp://213.59.254.6:443
+tcp://213.59.254.6:1433
+tcp://213.59.254.6:4443
+tcp://213.59.254.6:8080
+tcp://213.59.254.6:8081
+tcp://213.59.254.6:8082	
