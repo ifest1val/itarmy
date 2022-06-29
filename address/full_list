@@ -7,6 +7,9 @@ https://dss2.roseltorg.ru/STS/bundles/Css?v=http%3A%2F%2Fwww.ukr.net%2F --HTTP-m
 https://dss2.roseltorg.ru/STS/oauth/.htaccess --http-methods GET
 https://dss2.roseltorg.ru/STS/GetCaptcha/? --http-methods GET
 https://dss2.roseltorg.ru/STS/bundles/jqueryval/ --http-methods GET
+https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=33 --http-methods GET
+https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=34 --http-methods GET
+https://www.roseltorg.ru/procedures/search?sale=0&query_field=1&status%5B%5D=0&status%5B%5D=1&status%5B%5D=2&status%5B%5D=3&status%5B%5D=4&currency=all&page=35 --http-methods GET
 tcp://109.207.2.147:80
 tcp://109.207.2.147:81
 tcp://109.207.2.147:135
@@ -33,4 +36,51 @@ tcp://213.59.254.6:1433
 tcp://213.59.254.6:4443
 tcp://213.59.254.6:8080
 tcp://213.59.254.6:8081
-tcp://213.59.254.6:8082	
+tcp://213.59.254.6:8082
+https://esia.gosuslugi.ru/login/recovery  --http-methods GET
+https://esia.gosuslugi.ru/aas/oauth2/config  --http-methods GET
+tcp://109.207.2.205:80
+tcp://109.207.2.205:81
+tcp://109.207.2.205:443
+tcp://109.207.2.205:1433
+tcp://109.207.2.205:4443
+tcp://109.207.2.205:8080
+tcp://109.207.2.205:8081
+tcp://109.207.2.205:8082
+tcp://213.59.254.8:80
+tcp://213.59.254.8:81
+tcp://213.59.254.8:443
+tcp://213.59.254.8:1433
+tcp://213.59.254.8:4443
+tcp://213.59.254.8:8080
+tcp://213.59.254.8:8081
+tcp://213.59.254.8:8082
+tcp://109.207.2.147:80
+tcp://109.207.2.147:81
+tcp://109.207.2.147:135
+tcp://109.207.2.147:443
+tcp://109.207.2.147:1433
+tcp://109.207.2.147:4443
+tcp://109.207.2.147:8080
+tcp://109.207.2.147:8081
+tcp://109.207.2.147:8082	
+tcp://109.207.9.147:80
+tcp://109.207.9.147:81
+tcp://109.207.9.147:135
+tcp://109.207.9.147:443
+tcp://109.207.9.147:1433
+tcp://109.207.9.147:4443
+tcp://109.207.9.147:8080
+tcp://109.207.9.147:8081
+tcp://109.207.9.147:8082		
+tcp://213.59.254.6:80
+tcp://213.59.254.6:81
+tcp://213.59.254.6:135
+tcp://213.59.254.6:443
+tcp://213.59.254.6:1433
+tcp://213.59.254.6:4443
+tcp://213.59.254.6:8080
+tcp://213.59.254.6:8081
+tcp://213.59.254.6:8082
+https://www.gosuslugi.ru/api/catalog/v3/services/16422_67?_=0.7560837905276683&isManual=true&platform=EPGU_V3&rUrl=https:%2F%2Flk.gosuslugi.ru%2Fnotifications%2F%3Ftype%3DORDER   --http-methods GET
+
