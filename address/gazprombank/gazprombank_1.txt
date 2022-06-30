@@ -1,0 +1,29 @@
+tcp://195.225.38.187:443
+tcp://195.225.38.187:5061
+tcp://195.225.38.187:8443
+tcp://195.225.38.188:443
+tcp://195.225.38.188:5061
+tcp://195.225.38.188:8443
+tcp://195.225.38.189:443
+tcp://195.225.38.189:5061
+tcp://195.225.38.189:8443
+tcp://195.225.38.190:443
+tcp://195.225.38.190:5061
+tcp://195.225.38.190:8443
+tcp://195.225.38.191:443
+tcp://195.225.38.191:5061
+tcp://195.225.38.191:8443
+tcp://195.225.38.192:443
+tcp://195.225.38.192:5061
+tcp://195.225.38.192:8443
+tcp://195.225.38.202:5060
+tcp://195.225.38.202:5061
+tcp://195.225.38.205:5060
+tcp://195.225.38.205:5061
+tcp://195.225.38.206:5060
+tcp://195.225.38.206:5061
+https://passport.gbo.gazprombank.ru/index.js?f9bf442c152f9dd5763e APACHE
+https://gbo.gazprombank.ru/streams/ui/index.js?hash=166c0b1e33b09eae344d8552bf1b8b51 APACHE
+https://www.gazprombank.ru/upload/files/iblock/a4b/3_30_12_2021_Usloviya_BO_s-17_01_2022.pdf APACHE
+https://research.gazprombank.ru/local/templates/main/img/back_footer_1.png APACHE
+
